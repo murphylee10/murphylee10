@@ -12,18 +12,21 @@
 Welcome to my GitHub! Currently in my 3rd year at UofT, where I've built some full-stack applications and some other fun stuff. You can learn more about them by exploring my page :\)
 
 ## About Me
+
 - Computer Science (Specialist - Software Engineering Stream) @ UofT
 - Software Developer @ theScore, Sports Data Backend Team
 - VP of Technology @ AMACSS (UofT)
-- Current TAing MATB24 - Linear Algebra II @ UofT
+- Currently TAing MATB24 - Linear Algebra II @ UofT
 
 ## Current Projects
+
 - Appointment scheduling desktop app (Flutter) - Meant to be fine-tuned for my parents' chiropractic business
 - Infinite cloud storage tool (Go + HTMX)
 - New AMACSS site (Next.js)
 - Blog attachment to portfolio (trying out Payload CMS)
 
 ## My Previous Experiences
+
 - AWS Developer Intern @ Toyota, Infra Team (Jan 2024 - May 2024)
 - Director of Technology @ [Google DSC](https://gdsc.community.dev/university-of-toronto-scarborough-toronto-canada/) (Jan 2024 - May 2024)
 - Teaching Assistant for MATA22 - Linear Algebra I @ UofT (Jan 2024 - May 2024)

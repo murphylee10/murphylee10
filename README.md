@@ -15,7 +15,6 @@ Welcome to my GitHub! Currently in my 3rd year at UofT, where I've built some fu
 - Incoming SDE Intern at Amazon (AWS Team)
 - Computer Science (Specialist - Software Engineering Stream) @ UofT
 - VP of Technology @ AMACSS (UofT)
-- Currently TAing MATB24 - Linear Algebra II @ UofT
 
 ## Current Projects
 

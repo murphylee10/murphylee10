@@ -12,9 +12,8 @@
 Welcome to my GitHub! Currently in my 3rd year at UofT, where I've built some full-stack applications and some other fun stuff. You can learn more about them by exploring my page :\)
 
 ## About Me
-
+- Incoming SDE Intern at Amazon (AWS Team)
 - Computer Science (Specialist - Software Engineering Stream) @ UofT
-- Software Developer @ theScore, Sports Data Backend Team
 - VP of Technology @ AMACSS (UofT)
 - Currently TAing MATB24 - Linear Algebra II @ UofT
 
@@ -28,9 +27,10 @@ Welcome to my GitHub! Currently in my 3rd year at UofT, where I've built some fu
 
 ## My Previous Experiences
 
+- Software Developer @ theScore, Sports Data Backend Team (Sept 2024 - Dec 2024
 - AWS Developer Intern @ Toyota, Infra Team (Jan 2024 - May 2024)
 - Director of Technology @ [Google DSC](https://gdsc.community.dev/university-of-toronto-scarborough-toronto-canada/) (Jan 2024 - May 2024)
-- Teaching Assistant for MATA22 - Linear Algebra I @ UofT (Jan 2024 - May 2024)
+- Teaching Assistant for MATA22 - Linear Algebra I (Jan 2024 - May 2024) and MATB24 - Linear Algebra II (Sept 2024 - Dec 2024) @ UofT
 - Full-Stack Dev (contracted) @ [mora.do](https://mora.do/) (May 2023 - Dec 2023)
 
 ## Languages and Tools 🛠
